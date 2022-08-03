@@ -1,12 +1,12 @@
-Flask==1.1.1
-gunicorn==19.9.0
-itsdangerous==1.1.0
-Jinja2==2.10.3
-MarkupSafe==1.1.1
-Werkzeug==0.15.5
-numpy>= 1.11.0
-scipy>=0.15.1
-scikit-learn>=0.22.1
-matplotlib>=1.4.3
-pandas>=0.19
-Cython>= 0.28.5
+Flask==2.1.2
+gunicorn==20.1.0
+itsdangerous==2.1.2
+Jinja2==3.0.3
+MarkupSafe==2.0.1
+Werkzeug==2.0.2
+numpy>= 1.18.5
+scipy>=1.8.0
+scikit-learn>=0.24.2
+matplotlib>=3.3.4
+pandas>=1.4.2
+Cython== 0.29.30
