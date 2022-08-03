@@ -23,3 +23,10 @@ matplotlib>=3.3.4</br>
 pandas>=1.4.2</br>
 Cython== 0.29.30</br>
 </br></br>
+
+
+Steps:</br></br>
+1. Create a model based on dataset and integrate model prediction as Flask API </br>
+2. Commmit all the changes on GitHub </br>
+3. Create heroku app and link with Github reosoitory </br>
+4. Deploy the heroku application </br>
