@@ -9,9 +9,9 @@ Features:
 
 Species (str): The type of fish</br>
 Weight (int): The recorded Weight of the fish in grams (g)</br>
-Length1 (int): Vertical length in centimeters </br></br>
+Length1 (int): Vertical length in centimeters </br>
 Length2 (int): Diagonal length in centimeters </br>
-Length3 (int): Cross length in centimeters </br></br>
+Length3 (int): Cross length in centimeters </br>
 Height (int): Height in centimeters </br>
 Width (int): Diagonal width in centimeters</br>
 
