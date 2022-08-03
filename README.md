@@ -25,8 +25,8 @@ Cython== 0.29.30</br>
 </br></br>
 
 
-Steps:</br></br>
-1. Create a model based on dataset and integrate model prediction as Flask API </br>
-2. Commmit all the changes on GitHub </br>
-3. Create heroku app and link with Github reosoitory </br>
-4. Deploy the heroku application </br>
+Deployment Steps:</br></br>
+1. Create a model based on the dataset and integrate model prediction as Flask API </br>
+2. Commit all the changes on GitHub </br>
+3. Create a Heroku app and link with the Github repository </br>
+4. Deploy the Heroku application </br>
