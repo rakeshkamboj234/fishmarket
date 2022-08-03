@@ -1,11 +1,12 @@
 # Build a ML model for the Fish market dataset
-
+Task : Classification problem to determine the fish species</br></br>
 Database : https://www.kaggle.com/datasets/aungpyaeap/fish-market</br>
 </br>
-Content : This dataset is a record of 7 common different fish species in fish market sales. With this dataset, a predictive model can be performed using machine friendly data and estimate the weight of fish can be predicted.
+Content : This dataset is a record of 7 common different fish species in fish market sales. With this dataset, a predictive model classify the fish species based on height, weight, width and length1, length2 and length3.
 </br></br>
+
 Heroku access link : https://fishmarket-test.herokuapp.com/predict</br></br>
-Task : Classification problem to determine the fish species</br></br>
+
 
 Installation Required:</br>
 python==3.8
