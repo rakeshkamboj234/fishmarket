@@ -5,15 +5,15 @@ Database : https://www.kaggle.com/datasets/aungpyaeap/fish-market</br>
 Content : This dataset is a record of 7 common different fish species in fish market sales. With this dataset, a predictive model classify the fish species based on height, weight, width and length1, length2 and length3.
 </br>
 
-Features
+Features:
 
-Species (str): The type of fish
-Weight (int): The recorded Weight of the fish in grams (g)
-Length1 (int): Vertical length in centimeters (cm)
-Length2 (int): Diagonal length in centimeters (cm)
-Length3 (int): Cross length in centimeters (cm)
-Height (int): Height in centimeters (cm)
-Width (int): Diagonal width in centimeters (cm)
+Species (str): The type of fish</br>
+Weight (int): The recorded Weight of the fish in grams (g)</br>
+Length1 (int): Vertical length in centimeters </br></br>
+Length2 (int): Diagonal length in centimeters </br>
+Length3 (int): Cross length in centimeters </br></br>
+Height (int): Height in centimeters </br>
+Width (int): Diagonal width in centimeters</br>
 
 Heroku access link : https://fishmarket-test.herokuapp.com/predict</br>
 
