@@ -3,10 +3,9 @@ Task : Classification problem to determine the fish species</br></br>
 Database : https://www.kaggle.com/datasets/aungpyaeap/fish-market</br>
 </br>
 Content : This dataset is a record of 7 common different fish species in fish market sales. With this dataset, a predictive model classify the fish species based on height, weight, width and length1, length2 and length3.
-</br></br>
+</br>
 
-Heroku access link : https://fishmarket-test.herokuapp.com/predict</br></br>
-
+Heroku access link : https://fishmarket-test.herokuapp.com/predict</br>
 
 Installation Required:</br>
 python==3.8
@@ -22,7 +21,7 @@ scikit-learn>=0.24.2</br>
 matplotlib>=3.3.4</br>
 pandas>=1.4.2</br>
 Cython== 0.29.30</br>
-</br></br>
+</br>
 
 
 Deployment Steps:</br></br>
