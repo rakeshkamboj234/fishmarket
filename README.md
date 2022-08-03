@@ -7,7 +7,6 @@ Content : This dataset is a record of 7 common different fish species in fish ma
 Access link : https://fishmarket-test.herokuapp.com/predict</br></br>
 Task : Classification problem to determine the fish species</br></br>
 
-</br></br>
 Installation Required:</br>
 python==3.8
 Flask==2.1.2</br>
